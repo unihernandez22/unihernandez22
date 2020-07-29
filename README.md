@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Unai's github stats](https://github-readme-stats.vercel.app/api?username=unihernandez22&theme=dracula&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unihernandez22&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
